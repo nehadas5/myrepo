@@ -11,4 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Hi");
     }
+    public void function1() {
+    	System.out.println("Hiiii");
+    }
 }
